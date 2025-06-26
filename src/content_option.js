@@ -10,7 +10,7 @@ const introdata = {
         first: "I'm a Website Developer",
     },
     description: "I'm passionate about coding and specialize in developing visually appealing websites.",
-    your_img_url: "https://gowthamsmazz.github.io/assets/images/IMG_1721.jpg",
+    your_img_url: "https://gowthamsmazz.github.io/portfolio/assets/images/IMG_1721.jpg",
 };
 
 const dataabout = {

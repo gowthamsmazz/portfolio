@@ -10,7 +10,7 @@ const introdata = {
         first: "I'm a Website Developer",
     },
     description: "I'm passionate about coding and specialize in developing visually appealing websites.",
-    your_img_url: "/assets/images/IMG_1721.jpg",
+    your_img_url: "https://gowthamsmazz.github.io/assets/images/IMG_1721.jpg",
 };
 
 const dataabout = {
@@ -48,80 +48,56 @@ const skills = [{
     },
 ];
 
-const services = [{
-        title: "React JS",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Shopify",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
+const services = [
+  {
+    title: "React JS",
+    description: "Nearly 2 years of experience working with React.js across 2–3 projects. Proficient in building dynamic UIs, handling state management, and integrating APIs.",
+  },
+  {
+    title: "Shopify",
+    description: "Over 2 years of hands-on experience with Shopify. Skilled in setting up stores, customizing themes, and managing collections, products, and apps.",
+  },
+  {
+    title: "WordPress",
+    description: "6 years of extensive experience developing over 25 WordPress websites. Expertise in custom themes, WooCommerce integration, and performance optimization.",
+  },
 ];
 
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "NextjS",
+        link: "https://www.elima.in/",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Wordpress",
+        link: "https://www.bsd.edu.in/",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Wordpress",
+        link: "https://firstmeridian.com/",
     },
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Wordpress Wocommerce",
+        link: "https://chemstock.ae/",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Codeigniter Php",
+        link: "https://designarcinteriors.com/",
     },
     {
         img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Shopify",
+        link: "https://freakins.com/",
     },
 
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "React",
+        link: "https://www.grahmrealty.com/",
     },
 ];
 
